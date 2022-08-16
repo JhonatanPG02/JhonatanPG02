@@ -7,13 +7,13 @@ Soy un desarrollador Web FullStack, focalizado en el área de Front-end con much
 ### 💻 Mis Proyectos:
 
 
-  <img width='20%' src='src/main.jepg' alt='Instagram photo' />
+  <img width='20%' src='![Imagen Banner](src/main.jepg)' alt='Instagram photo' />
 
-  <img width='20%' src='src/main.jepg' alt='Instagram photo' />
+  <img width='20%' rc='![Imagen Banner](src/main.jepg)' alt='Instagram photo' />
 
-  <img width='20%' src='src/main.jepg' alt='Instagram photo' />
+  <img width='20%' rc='![Imagen Banner](src/main.jepg)' alt='Instagram photo' />
 
-  <img width='20%' src='src/main.jepg' alt='Instagram photo' />
+  <img width='20%' rc='![Imagen Banner](src/main.jepg)' alt='Instagram photo' />
 
 - [MAINSTAGE](https://github.com/Hecatonquir/Final_Project_18-07-2022):
 Este es mi proyecto final que fue realizado con un gran equipo en el bootcamp de Henry y se trata de un e-commerce de eventos que permite conectar usuarios y organizadores.  Las prncipales funcionalidades incluyen: Carrito de Compras, Método de Pago, Añadir a favoritos, Registro de usuarios nuevos, Geolocalización, Formularios controlados, Panel del Administrador y Organizador(Lista de usuarios, eventos, compras, etc.)
