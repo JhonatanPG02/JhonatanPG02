@@ -4,7 +4,16 @@
 
 Soy un desarrollador Web FullStack, focalizado en el área de Front-end con muchas ganas de aportar y seguir aprendiendo. 
 
-### 💻 Mis Proyectos 💻
+### 💻 Mis Proyectos:
+
+
+  <img width='20%' src='src/main.jepg' alt='Instagram photo' />
+
+  <img width='20%' src='src/main.jepg' alt='Instagram photo' />
+
+  <img width='20%' src='src/main.jepg' alt='Instagram photo' />
+
+  <img width='20%' src='src/main.jepg' alt='Instagram photo' />
 
 - [MAINSTAGE](https://github.com/Hecatonquir/Final_Project_18-07-2022):
 Este es mi proyecto final que fue realizado con un gran equipo en el bootcamp de Henry y se trata de un e-commerce de eventos que permite conectar usuarios y organizadores.  Las prncipales funcionalidades incluyen: Carrito de Compras, Método de Pago, Añadir a favoritos, Registro de usuarios nuevos, Geolocalización, Formularios controlados, Panel del Administrador y Organizador(Lista de usuarios, eventos, compras, etc.)
@@ -14,9 +23,9 @@ Este es mi proyecto individual, desarrolle una single page application (SPA) con
 [Ver la aplicación aquí:](https://pi-dogs-teal.vercel.app/)
 
 
-<h3 align="left">Contáctame:</h3>
+### 📧 Contáctame:
 <p align="left">
-<a href="https://www.linkedin.com/in/jhonatan-prado-fullstack/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonatanprado" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jhonatan-prado-fullstack/" target='_blank'> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonatanprado" height="30" width="40" /></a>
 </p>
 
 
