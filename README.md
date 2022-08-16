@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Imagen Banner](https://postimg.cc/svBxWypC)
+![Imagen Banner](src/banner.jpeg)
 
 
 <!--
