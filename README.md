@@ -7,7 +7,7 @@ Soy un desarrollador Web FullStack, focalizado en el área de Front-end con much
 ### 💻 Mis Proyectos:
 
 
-  <img width='20%' src='[![Imagen Banner](src/main.jepg)](https://raw.githubusercontent.com/JhonatanPG02/JhonatanPG02/main/src/main1.jpeg)' alt='Instagram photo' />
+  <img width='20%' src='https://raw.githubusercontent.com/JhonatanPG02/JhonatanPG02/main/src/main1.jpeg' alt='Instagram photo' />
 
   <img width='20%' rc='![Imagen Banner](src/main.jepg)' alt='Instagram photo' />
 
