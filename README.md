@@ -20,6 +20,17 @@ Soy un desarrollador Web FullStack, focalizado en el área de Front-end con much
 Este es mi proyecto final que fue realizado con un gran equipo en el bootcamp de Henry y se trata de un e-commerce de eventos que permite conectar usuarios y organizadores.  Las prncipales funcionalidades incluyen: Carrito de Compras, Método de Pago, Añadir a favoritos, Registro de usuarios nuevos, Geolocalización, Formularios controlados, Panel del Administrador y Organizador(Lista de usuarios, eventos, compras, etc.)
 [Ver la aplicación aquí](https://mainstage.vercel.app/)
 
+
+<p align="center">
+  <img width='23%' height='150px' src='https://raw.githubusercontent.com/JhonatanPG02/JhonatanPG02/main/src/dog1.jpeg' alt='photo' />
+
+  <img width='23%' height='150px' src='https://raw.githubusercontent.com/JhonatanPG02/JhonatanPG02/main/src/dog2.jpeg' alt='photo' />
+
+  <img width='23%' height='150px' src='https://raw.githubusercontent.com/JhonatanPG02/JhonatanPG02/main/src/dog3.jpeg' alt='photo' />
+
+  <img width='23%' height='150px' src='https://raw.githubusercontent.com/JhonatanPG02/JhonatanPG02/main/src/dog4.jpeg' alt='photo' />
+</p>
+
 - [DOGS APP](https://github.com/JhonatanPG02/PI-Dogs):
 Este es mi proyecto individual, desarrolle una single page application (SPA) con consumo de datos de distintas razas de perros desde una API. Las principales funcionalidades incluyen: Filtros, ordenamientos, barra de búsqueda, paginado, detalle de cada raza, formulario controlado de creación.
 [Ver la aplicación aquí](https://pi-dogs-teal.vercel.app/)
