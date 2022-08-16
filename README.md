@@ -6,7 +6,7 @@ Soy un desarrollador Web FullStack, focalizado en el área de Front-end con much
 
 ### 💻 Mis Proyectos:
 
-
+<p align="center">
   <img width='20%' src='https://raw.githubusercontent.com/JhonatanPG02/JhonatanPG02/main/src/main1.jpeg' alt='photo' />
 
   <img width='20%' src='https://raw.githubusercontent.com/JhonatanPG02/JhonatanPG02/main/src/main2.jpeg' alt='photo' />
@@ -14,7 +14,7 @@ Soy un desarrollador Web FullStack, focalizado en el área de Front-end con much
   <img width='20%' src='https://raw.githubusercontent.com/JhonatanPG02/JhonatanPG02/main/src/main3.jpeg' alt='photo' />
 
   <img width='20%' src='https://raw.githubusercontent.com/JhonatanPG02/JhonatanPG02/main/src/main4.jpeg' alt='photo' />
-
+</p>
 - [MAINSTAGE](https://github.com/Hecatonquir/Final_Project_18-07-2022):
 Este es mi proyecto final que fue realizado con un gran equipo en el bootcamp de Henry y se trata de un e-commerce de eventos que permite conectar usuarios y organizadores.  Las prncipales funcionalidades incluyen: Carrito de Compras, Método de Pago, Añadir a favoritos, Registro de usuarios nuevos, Geolocalización, Formularios controlados, Panel del Administrador y Organizador(Lista de usuarios, eventos, compras, etc.)
 [Ver la aplicación aquí:](https://mainstage.vercel.app/)
