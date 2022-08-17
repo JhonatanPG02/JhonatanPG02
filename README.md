@@ -50,7 +50,8 @@ Este es mi proyecto individual, desarrolle una single page application (SPA) con
 - PostgreSQL
 - Sequelize
 
-### 📧 Contáctame:
+### 📫 Contáctame:
+📧 jhonatan.prado.gutierrez@gmail.com
 <p align="left">
 <a href="https://www.linkedin.com/in/jhonatan-prado-fullstack/" target='_blank'> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonatanprado" height="30" width="40" /></a>
 </p>
