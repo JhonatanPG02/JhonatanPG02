@@ -36,11 +36,24 @@ Este es mi proyecto individual, desarrolle una single page application (SPA) con
 [Ver la aplicación aquí](https://pi-dogs-teal.vercel.app/)
 
 
+### 🔧 Tecnologías:
+🔹Front-end:
+- Javascript
+- React
+- Redux
+- HTML
+- CSS
+
+🔸Back-end:
+- Node.js
+- Express
+- PostgreSQL
+- Sequelize
+
 ### 📧 Contáctame:
 <p align="left">
 <a href="https://www.linkedin.com/in/jhonatan-prado-fullstack/" target='_blank'> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonatanprado" height="30" width="40" /></a>
 </p>
-
 
 
 <!--
